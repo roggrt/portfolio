@@ -16,7 +16,7 @@ params:
   version: 1
 
   favicon: "/images/hugo.png"
-  description: "A hugh performance hugo theme for personal website. It is single page portfolio. It has blog, contact sections also. Contact is powered by formspree."
+  description: "A high performance hugo theme for personal website. It is single page portfolio. It has blog, contact sections also. Contact is powered by formspree."
   disqus: ""
 
   # Background
@@ -48,75 +48,61 @@ params:
   Things:
     - logo: fab fa-python
       title: Python
-      description: I build something beautiful using Python.
+      description: He desarrollado varios algoritmos y backend usando python.
       #url: https://example.com
 
     - logo: fas fa-robot
       title: Machine learning
-      description: I train robust models for various tasks.
+      description: Entrenamiento de IA para la mineria de datos.
       #url: https://guru.com
 
     - logo: fab fa-html5
-      title: Things for web
-      description: I love to build things for web
+      title: Desarrollo web
+      description: Me encanta desarrollar sitios web, desde el concepto, diseño hasta su producción final
       #url: https://guru.com
 
   # About
   profile_image: "/images/profile.webp"
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-  descripe_l2_person: "This is just a example for about section. You can easily change with the help of cofig file."
-  job: "your role"
+  descripe_l1_person: "Hola, soy Roger, un apasionado desarrollador de software. Tiendo a hacer uso de tecnologías web modernas para crear sitios web que se vean geniales, se sientan fantásticas y funcionen correctamente. ."
+  descripe_l2_person: "No solo desarrollo software, también brindo asesoría para tu emprendimiento, tienda en linea o idea de negocio ."
+  job: "Software Engineer"
   resume: "/resume.pdf"
 
   #projects
   projects:
-    - title: "Project name"
+    - title: "Tienda en linea"
       image: "/images/project.jpg"
-      description: "This is your description"
+      description: "Tienda en linea con pasarela de pago"
+      secoundarylink: true
+      secoundaryurlname: "Featured link"
+      secoundaryurl: "/"
+      sourceurl: "https://tronicshops.netlify.app"
+
+    - title: "Commerce.js"
+      image: "/images/project.jpg"
+      description: "Uso de plataformas de commerce.js para tiendas en linea"
+      secoundarylink: true
+      secoundaryurlname: "Featured link"
+      secoundaryurl: "/"
+      sourceurl: "https://commercejs.com"
+
+    - title: "e-commerce de electronicos"
+      image: "/images/project.jpg"
+      description: "izatecnishop, un sitio creado con wordpress, y woocomerce para el manejo de productos e inventario"
+      secoundarylink: true
+      secoundaryurlname: "Featured link"
+      secoundaryurl: "/"
+      sourceurl: "https://izatecnishop.com"
+
+    - title: "Hugo para sitios estaticos"
+      image: "/images/project.jpg"
+      description: "Uso de la plataforma hugo para la creacion de sitios estaticos"
       secoundarylink: true
       secoundaryurlname: "Featured link"
       secoundaryurl: "/"
       sourceurl: "https://github.com/gurusabarish/hugo-profile"
 
-    - title: "Project name"
-      image: "/images/project.jpg"
-      description: "This is your description"
-      secoundarylink: true
-      secoundaryurlname: "Featured link"
-      secoundaryurl: "/"
-      sourceurl: "https://github.com/gurusabarish/hugo-profile"
 
-    - title: "Project name"
-      image: "/images/project.jpg"
-      description: "This is your description"
-      secoundarylink: true
-      secoundaryurlname: "Featured link"
-      secoundaryurl: "/"
-      sourceurl: "https://github.com/gurusabarish/hugo-profile"
-
-    - title: "Project name"
-      image: "/images/project.jpg"
-      description: "This is your description"
-      secoundarylink: true
-      secoundaryurlname: "Featured link"
-      secoundaryurl: "/"
-      sourceurl: "https://github.com/gurusabarish/hugo-profile"
-
-    - title: "Project name"
-      image: "/images/project.jpg"
-      description: "This is your description"
-      secoundarylink: true
-      secoundaryurlname: "Featured link"
-      secoundaryurl: "/"
-      sourceurl: "https://github.com/gurusabarish/hugo-profile"
-
-    - title: "Project name"
-      image: "/images/project.jpg"
-      description: "This is your description"
-      secoundarylink: true
-      secoundaryurlname: "Featured link"
-      secoundaryurl: "/"
-      sourceurl: "https://github.com/gurusabarish/hugo-profile"
 
   #Blog
   showdescription: false
