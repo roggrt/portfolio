@@ -1,23 +1,45 @@
-{{ $img:= "./images/v1/background.png" }}
+{{ if .Site.Params.usedothings }}
+<section>
+  <div class="do-things text-center" id="do-things">
+    <div class="container">
+      <div class="things-i-do text-primary py-3 font-weight-bold">
+        Things I do
+      </div>
 
-<section id="achievements" class="py-5 achievements-backdark achievements-back">
-  <div class="container-fluid">
-    <div class="text-dark text-center h3">Achievements</div>
-    <div class="row justify-content-center py-3 mx-2">
-      {{ range .Site.Params.achievements }}
-      {{ if .img }}
-      {{ $img = .img }}
-      {{ end }}
-      <div class="col-md-5 achiv-out px-4 px-md-2 my-2" data-aos="fade-up" data-aos-easing="linear"
-        data-aos-duration="600" data-aos-once="true">
-        <div class="achiv-card d-flex align-items-end shadow-lg rounded" style="background-image: url(./{{ .img }});">
-          <div class="p-3 w-100 achiv overflow-hidden">
-            <h4 class="text-center achiv-head">{{ .title }}</h4>
-            <div class="text-secondary">{{ .description }}</div>
+      <div class="do-things-card">
+        <div class="row pb-2 justify-content-center">
+          {{ range .Site.Params.Things }}
+          {{ if .url }}
+          <div class="col-lg-3 col-md-4">
+            <a id="nothing" href={{ .url | default "#" }} class="">
+              <div class="things shadow rounded p-4 my-2 mb-4 card btn-outline-primary">
+                <i class="{{ .logo }} fa-3x" width="3em" height="3em"></i>
+                <div class="p-2 font-weight-bold">
+                  {{ .title }}
+                </div>
+                <div class="py-4 things-text">
+                  {{ .description }}
+                </div>
+              </div>
+            </a>
           </div>
+          {{ else }}
+          <div class="col-lg-3 col-md-4">
+            <div class="things shadow rounded p-4 my-2 mb-4 card btn-outline-primary">
+              <i class="{{ .logo }} fa-3x" width="3em" height="3em"></i>
+              <div class="p-2 font-weight-bold">
+                {{ .title }}
+              </div>
+              <div class="py-4 things-text">
+                {{ .description }}
+              </div>
+            </div>
+          </div>
+          {{ end }}
+          {{ end }}
         </div>
       </div>
-      {{ end }}
     </div>
   </div>
 </section>
+{{ end }}
