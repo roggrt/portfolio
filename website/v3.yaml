@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://roggrt.netlify.app"
 languageCode: "en-us"
-title: "Hugo-profile"
+title: "roggrt"
 theme: "./.."
 relativeURLs: true
 
