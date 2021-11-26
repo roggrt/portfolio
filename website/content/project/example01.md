@@ -1,5 +1,5 @@
 ---
-title: "Manejos de sitios web y hosting/migraciones"
+title: "Manejo de sitios web y hosting/migraciones"
 date: 2021-05-04T11:30:13+05:30
 draft: false
 img: /images/setup01.jpg
