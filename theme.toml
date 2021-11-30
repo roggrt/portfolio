@@ -4,7 +4,7 @@ licenselink = "https://github.com/gurusabarish/hugo-profile/blob/master/LICENSE"
 description = "A high performance and mobile first hugo template for personal portfolio and blog."
 homepage = "https://github.com/roggrt"
 demosite = "https://roggrt.netlify.app"
-tags = ["Responsive","Blog", "Portfolio", "Personal"]
+tags = ["Responsive","Blog", "Portfolio", "Personal", "Software", "Cuenca"]
 min_version = "0.68.0"
 
 [author]
