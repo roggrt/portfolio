@@ -21,7 +21,7 @@ params:
   version: 3
 
   favicon: "/images/fav.png"
-  description: "Portafolio personal y curriculum by Roger"
+  description: "Desarrollo y diseño de sitios web, software, marketing digital y más en Ecuador, empieza a digitalizar tu negocio y ponte al alcance de mas personas"
 
   # Navbar Menus
   customMenus:
