@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "roggrt"
+title: "Roggrt Dev"
 theme: "./.."
 relativeURLs: true
 
@@ -36,23 +36,23 @@ params:
   profession: "Software Developer"
   github: "https://github.com/roggrt"
   gitlab: "https://gitlab.com/roggrt"
-  linkedin: "https://linkedin.com/roggrt"
+  linkedin: "https://www.linkedin.com/in/roggrt/"
   twitter: "https://twitter.com/roggertzy"
   instagram: "https://instagram.com/roggertzy"
   facebook: "https://facebook.com"
 
   # About
   disable_about: false
-  descripe_l1_person: "Hola, soy Roger, un desarrollador de sistemas/software. Desarrollo sitios web funcionales y modernas con las mejores tecnologias del momento, lo que hace que estas luzcan bien, sean funcionales y cumplan con su proposito."
+  descripe_l1_person: "Hola, soy Roger, un desarrollador de software. Desarrollo sitios web funcionales y modernas con las mejores tecnologías del momento, lo que hace que estas luzcan bien, sean funcionales y cumplan con su proposito."
   descripe_l2_person: "Desarrollo tiendas en línea, páginas informativas, me adapto a tu presupuesto, puedes ver parte de mi trabajo [aquí](#projects)"
   skills:
-    - name: CSS
+    - name: Html/Css
       percentage: 90
     - name: Javascript
       percentage: 85
-    - name: Php
+    - name: Java
       percentage: 80
-    - name: React JS
+    - name: Python
       percentage: 70
 
   # Experience
@@ -80,8 +80,8 @@ params:
       startdate: Feb 2019
       enddate: Jan 2020
       featuredpoints:
-        - point: Mantenimiento y reparacion de equipo de computo.
-        - point: Manejo de pagina web de la empresa y desarrollo de tienda en linea.
+        - point: Mantenimiento y reparación de equipo de cómputo.
+        - point: Manejo de pagina web de la empresa y desarrollo de tienda en línea.
 
   # Education
   disable_education: false
@@ -124,7 +124,7 @@ params:
 
   # Contact
   disable_contact: false
-  contact_content: Siempre estoy pendiente a mi inbox EC(0963922332) y correo. Si tienes una duda o tan solo quieres pasar a saludar, mandame un mensaje o correo, tratare de responderte lo antes posible!
+  contact_content: Siempre estoy pendiente a mi inbox +593963922332 y correo. Si tienes una duda o tan solo quieres pasar a saludar, mandame un mensaje o correo, trataré de responderte lo antes posible!
   email: "roggrt@gmail.com"
 
   # Footer
