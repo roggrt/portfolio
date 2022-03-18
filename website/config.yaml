@@ -98,7 +98,7 @@ params:
       graduation: "2019"
 
   # Projects
-  disable_projects: false
+  disable_projects: true
   projects:
     - name: "Proyectos"
       img: /images/project.jpg
