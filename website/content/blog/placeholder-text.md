@@ -1,40 +1,22 @@
 ---
-title: "Placeholder Text"
+title: "Uso del HTML en la actualidad"
 date: 2021-04-03T22:41:10+05:30
 draft: false
-github_link: "https://github.com/gurusabarish/hugo-profile"
+github_link: "https://github.com/roggrt"
 author: "Gurusabarish"
 tags:
-  - Placeholder text
+  - HTML
 bg_image: ""
 description: ""
 toc: 
 ---
 
-Lorem est tota propiore conpellat pectoribus de pectora summo.
+HTML es el lenguaje que se emplea para el desarrollo de páginas de internet. Está compuesto por una seríe de etiquetas que el navegador interpreta y da forma en la pantalla. HTML dispone de etiquetas para imágenes, hipervínculos que nos permiten dirigirnos a otras páginas, saltos de línea, listas, tablas, etc.
 
-Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
+# Su uso en la actualidad
 
-  1. Exierant elisi ambit vivere dedere
-  2. Duce pollice
-  3. Eris modo
-  4. Spargitque ferrea quos palude
+Actualmente el mercado del desarrollo web esta lleno de miles de herramientas que le pueden facilitar la vida a un desarrollador, herramientas que básicamente podrían crear un sitio web sin saber nada de programación, hasta frameworks donde con conocimiento de javascript podrías crear asombrosas páginas web sin dominar mucho este lenguaje de etiquetas.
 
-Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.
+Esto no quiere decir que no se deba saber HTML, pues no, más bien, motiva a no solo aprender este lenguaje y más bien aprender sus estructuras, la lógica y encaminarnos en aprender más alla, como css, ya que si dominamos lo básico de HTML podriamos con la ayuda de frameworks de css como bootstrap, tailwinds, o bulma, hacer páginas web muy atractivas visualmente.
 
-  1. Comas hunc haec pietate fetum procerum dixit
-  2. Post torum vates letum Tiresia
-  3. Flumen querellas
-  4. Arcanaque montibus omnes
-  5. Quidem et
-
-# Vagus elidunt
-
-[The Van de Graaf Canon](https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon)
-
-## Mane refeci capiebant unda mulcebat
-Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. Faces illo pepulere tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
-
-Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.
-
-Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel mitis temploque vocatus, inque alis, oculos nomen non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides parte.
+En la actualidad nos ayuda a maquetar nuestro sitio, es indispensable en todos los sentidos, pero como la evolución en el desarrollo web esta en constante cambio, cada vez más nos veremos en la necesidad de incrementar nuestros conocimientos ya sea aprendiendo en cursos las nuevas tendencias de desarrollo, para crear sitios web atractivos, funcionales y definitivamente que tengan buen rendimiento.
